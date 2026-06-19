@@ -1,1 +1,1 @@
-These Projects are built on jupyter notebook
+These Projects are built using jupyter notebook
